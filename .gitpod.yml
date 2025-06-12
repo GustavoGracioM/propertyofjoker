@@ -1,0 +1,5 @@
+image: gitpod/workspace-full
+
+tasks:
+  - name: Run docker compose
+    init: docker-compose up
